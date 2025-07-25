@@ -2,7 +2,7 @@
 
 A simple project where you draw sand and it... falls. Like real sand. That’s pretty much it.
 
-You can change the brush size, pick a color, turn on rainbow mode if you're feeling wild, and even erase your mess with a right-click. There's a "Clear" button too, for when everything goes wrong.
+You can change the brush size, pick a color, turn on rainbow mode if you're feeling wild, and There's a "Clear" button too, for when everything goes wrong.
 
 No setup. No dependencies. Just open `index.html` and start messing around.
 
